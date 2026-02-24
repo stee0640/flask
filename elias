@@ -1,0 +1,5 @@
+
+ 
+
+client = OpenAI(api_key="XXsk-proj-9JfPNtnOGaZEKKzjOjn1TxWfLqYgDrE339yvTbE2BsqY0DODRgZ_Im7HoJ5J8H6hSup5trbuHLT3BlbkFJ2VvR99SW-xIwitwzvETV7ix5kgy2ULUmi05idsMO3LOj10VjwlGImbNO6k7UE62VSNhfgtcyAA")
+
